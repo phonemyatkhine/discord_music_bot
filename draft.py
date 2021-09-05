@@ -102,4 +102,4 @@ async def leave(ctx):
     else: # But if it isn't
         await ctx.send("I'm not in a voice channel, use the join command to make me join")
 
-bot.run("ODgyNTMwMTE1ODQ4OTEyOTE3.YS8uOA.M70HcCp7lmGk37BNdHph8MyswT0")
+bot.run("amtoken")
